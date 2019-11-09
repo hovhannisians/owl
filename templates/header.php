@@ -12,7 +12,16 @@
     <header>
 
         <div class="container">
-        
+            <div class="logo">
+                <a href="../index.php">
+                    <img src="assets/img/logo1-transparent.png">
+                </a>
+            </div>
+            <div class="search">
+                <input type="search" placeholder="Search user">
+                <input type="submit" value="Search">
+            </div>
+        </div>
         </div>
 
     </header>
