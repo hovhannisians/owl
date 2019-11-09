@@ -5,6 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Owl</title>
+    <link rel="stylesheet" href="assets/css/main.css" media="all">
 </head>
 <body>
+
+    <header>
+
+        <div class="container">
+        
+        </div>
+
+    </header>
+
+    <div id="content">
+    
     
